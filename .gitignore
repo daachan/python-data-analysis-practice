@@ -18,3 +18,6 @@ __pycache__/
 # ===== Logs / Temp =====
 *.log
 *.tmp
+
+# ===== SampleCode =====
+100knock-data_analytics/

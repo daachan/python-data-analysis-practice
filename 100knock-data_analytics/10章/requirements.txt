@@ -1,4 +1,0 @@
-pandas==2.2.2
-matplotlib==3.10.0
-numpy==2.0.2
-mecab-python3==1.0.10
