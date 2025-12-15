@@ -1,0 +1,6 @@
+pandas==2.2.2
+matplotlib==3.10.0
+networkx==3.5
+numpy==2.0.2
+PuLP==2.9.0
+ortoolpy==0.6.4
